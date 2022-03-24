@@ -38,7 +38,7 @@ As such, this offering is limited to CCS non-Computing majors only, i.e. student
 
 # About the Course
 
-This class serves as an <strong>introduction to programming and computer science</strong>. We will use the Python language and write Python programs throughout the course. We will be using Python 3 in the class. The Python Interpreter can be downloaded for free from Python's download page (http://python.org/downloads/). I encourage everyone to install Python on their local computer in order to practice programming in your own time.
+This class serves as an <strong>introduction to programming and computer science</strong>. We will use the Python language and write Python programs throughout the course. We will be using Python 3 in the class. In addition to zyBooks, you should download the Python Interpreter for free from Python's download page (http://python.org/downloads/). I encourage everyone to install Python on their local computer in order to practice programming in addition to zyBooks.
 
 If you find yourself working on a computer that doesn't have Python installed, you can run simple Python code (along with several other languages) on the web with tools such as [IDEOne](https://ideone.com). This is not a requirement for the course, but you may find it to be a useful tool.
 
