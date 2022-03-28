@@ -1,5 +1,5 @@
 ---
-title: "CMPTGCS 20B: CS for Non Majors (2nd Course)"
+title: "CMPTGCS 20A: CS for Non Majors (1st Course)"
 ---
 
 # {{page.title}}
